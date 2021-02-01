@@ -1,1 +1,1 @@
-# copyright 2021
+# Free use for anyone but include me in credits please!
