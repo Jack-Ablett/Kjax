@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 You can use the [editor on GitHub](https://github.com/Jack-Ablett/Kjax/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
